@@ -1,2 +1,1 @@
-# Unity_FPS
-Scripts for player movement and look
+Basic functionaities for a FPS game with unity

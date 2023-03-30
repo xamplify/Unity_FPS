@@ -1,1 +1,1 @@
-Basic functionaities for a FPS game with unity
+Basic functionaities for a unity FPS game.
